@@ -1,4 +1,4 @@
-# KROB
+# Pedagogicke-portfolio-Mgr
 Pedagogické portfolio
 Magisterské studium
 Ing. Hana Potěšilová
